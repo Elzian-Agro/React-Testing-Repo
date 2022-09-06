@@ -26,7 +26,7 @@ const Home = () => {
                 <th style={{textAlign: "center"}}>Name</th>
                 <th style={{textAlign: "center"}}>Email</th>
                 <th style={{textAlign: "center"}}>Conatct</th>
-                <th style={{textAlign: "center"}}>Action</th> 
+                <th style={{textAlign: "center"}}>Moves</th> 
             </tr>
         </thread>
 
