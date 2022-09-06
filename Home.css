@@ -28,7 +28,7 @@ padding: 12px 15px;
 
 .styled-tabletbody tr:nth-of-type(even) {
 
-    background-color: azure;
+    background-color: black;
 }
 
 .styled-table tbody tr:last-of-type {
@@ -52,7 +52,7 @@ padding: 12px 15px;
 
 
 .btn-edit{
-background-color: blue;
+background-color: brown;
 
 }
 
