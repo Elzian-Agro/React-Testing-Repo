@@ -5,7 +5,7 @@ function Contact() {
   return (
     <section className='contact'>
         <div className='content'>
-            <h2>GET TOUCH WITH US</h2>
+            <h1>GET TOUCH WITH US</h1>
             <p>Please contact us with any questions regarding your agricultural problems that needs to solve using the new technological solutions. We will respond to all your enquires, that send to us via below email address and contact us form, within 5 working days.</p>
         </div>
         <div className='container'>
