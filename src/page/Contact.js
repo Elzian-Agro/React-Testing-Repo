@@ -11,17 +11,19 @@ function Contact() {
         <div className='container'>
             <div className='contactinfo'>
                 <div className='box'>
-                    <div className='icon'></div>
+                <br/>
                     <h3 className='text' >Address</h3>
                     <p className='text2'>Elzian Agro (Pvt) Ltd <br/> Kurunegala <br/> Sri Lanka <br/>60000.</p>
                 </div>
+                <br/>
                 <div className='box'>
-                    <div className='icon'></div>
+                   
                     <h3 className='text'>Phone</h3>
                     <p className='text2'>011-12121212</p>
                 </div>
+                <br/>
                 <div className='box'>
-                    <div className='icon'></div>
+                  
                     <h3 className='text'>Email</h3>
                     <p className='text2'>contact@elzian.com</p>
                 </div>
