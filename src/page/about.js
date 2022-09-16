@@ -8,15 +8,15 @@ const About = () => {
     
 
 
-      <section class="section">
+      <section className="section">
         
-                <div class="box-main1" >
-                    <div class="leftside">
+                <div className="box-main1" >
+                    <div className="leftside">
                     <h1 className="heading">
                       ELZIAN AGRO
                                   </h1>
                         
-                        <p class="text-small">
+                        <p className="text-small">
                         ELZIAN PVT LTD is a start-up that provides smart agronomy solutions to Support mass cultivation farmers to
 monitor and automate their farmland.
                         ELZIAN AGRO provides smart agronomy solutions to support mass cultivation farmers to monitor and automate their farmland. We offer customized monitoring information and automation solutions through trending digital technologies to optimize our customers' harvest and productively utilize their resources. According to United Nations Sustainable Reports, farmers negatively impact due to extreme weather changes and limited resources.
@@ -32,9 +32,9 @@ monitor and automate their farmland.
             
 
 
-            <section class="section">
-                <div class="box-main2">
-                    <div class="rightside">
+            <section className="section">
+                <div className="box-main2">
+                    <div className="rightside">
         
 
                     <div className="image">
