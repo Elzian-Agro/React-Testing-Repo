@@ -1,0 +1,66 @@
+*{
+
+
+   box-sizing:border-box;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+ }
+ 
+ .contact{
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 99px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(bg.jpg);
+    background-size:cover;
+    
+ }
+ 
+ .contact .content{
+    max-width: 800px;
+    min-height: fit-content;
+    text-align: center;
+   
+  
+ }
+ .contact .content h2{
+    font-size: 36px;
+    font-weight: 500;
+    color: white;
+ 
+ }
+ 
+ .contact .content p{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+ 
+ }
+ 
+ .container .contactinfo .box .text{
+ 
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    flex-direction: column;
+ 
+ }
+ 
+ .container .contactinfo .box .text2{
+ 
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    flex-direction: column;
+ 
+ 
+ }
+ 
+  
+  
+  
+  
+  
